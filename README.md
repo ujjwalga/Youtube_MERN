@@ -12,5 +12,6 @@ A Youtube App using MERN.
 8. Installing mongoose-aggregate-paginate-v2(Watch History), Brcypt(Password Hashing) and jwt(AT/RT).
 9. Setting up the models.
 10. Installing cloudinary(cloud upload) and multer(server upload).
-
+11. Configuring cloudinary for file upload from local and multer handling incoming images and saving them to local.
+12. Making User controller and routes(First route : Register User)
    
